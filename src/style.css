@@ -37,7 +37,7 @@ body {
   }
 
   .result {
-    color: white;
+    color: rgb(172, 172, 172);
   }
 
   .inp {
@@ -62,4 +62,12 @@ body {
 
   #btn4 {
     background-color: gold ;
+  }
+
+  #btn5 {
+    background-color: purple;
+  }
+
+  #btn6 {
+    background-color: aqua;
   }
